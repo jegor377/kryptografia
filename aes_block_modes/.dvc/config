@@ -1,0 +1,6 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = ssh://conan@mrworkshop.xyz:/home/conan/krypto
+    port = 22
+    ask_passphrase = true
