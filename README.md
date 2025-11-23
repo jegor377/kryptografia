@@ -1,4 +1,4 @@
-﻿# kryptografia
+﻿# Cryptography exercises
 
 This repository contains solutions to cryptography exercises, focusing on implementing various cryptographic algorithms from scratch. It demonstrates both classical and modern encryption techniques and is intended for learning and practice purposes.
 
