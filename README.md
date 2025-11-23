@@ -4,6 +4,8 @@ This repository contains solutions to cryptography exercises, focusing on implem
 
 ## Contents
 
+Pseudorandom number generation: BBS.
+
 Symmetric encryption: AES.
 
 Asymmetric encryption: RSA, Diffie–Hellman key exchange.
