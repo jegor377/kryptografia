@@ -10,7 +10,7 @@ Symmetric encryption: AES.
 
 Asymmetric encryption: RSA, Diffie–Hellman key exchange.
 
-Hash functions: SHA-256, MD5.
+Hash functions: SHA-1, SHA-2, SHA-3, MD5.
 
 Image watermarking: Patchwork.
 
