@@ -17,17 +17,17 @@ Image watermarking: Patchwork.
 Visual encryption.
 
 
-# Purpose
+## Purpose
 
 To practice and understand how different cryptographic algorithms work internally.
 
 To provide a reference for educational purposes or personal learning projects.
 
 
-# Usage
+## Usage
 
 Each algorithm is implemented in a standalone jupyter notebook. You can navigate to their directory in run the Untitled.ipynb notebook.
 
-# Requirements
+## Requirements
 
 Python 3.x
